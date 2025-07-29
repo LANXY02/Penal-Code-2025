@@ -1,0 +1,943 @@
+[
+    {
+      "code": "1A",
+      "charge": "(1) A. General Traffic Violation",
+      "jailtime": 0,
+      "fine": 250,
+      "bail": 0
+    },
+    {
+      "code": "1A1",
+      "charge": "(1) A. 1. Driving at the wrong lane of the road",
+      "jailtime": 0,
+      "fine": 250,
+      "bail": 0
+    },
+    {
+      "code": "1A2",
+      "charge": "(1) A. 2. Illegal U-turn, performing a U-turn which crosses lanes of traffic",
+      "jailtime": 0,
+      "fine": 250,
+      "bail": 0
+    },
+    {
+      "code": "1A3",
+      "charge": "(1) A. 3. Blocking/cutting off intersection, it may cause a lot of dangerous accident",
+      "jailtime": 0,
+      "fine": 250,
+      "bail": 0
+    },
+    {
+      "code": "1A4",
+      "charge": "(1) A. 4. Driving on pedestrian walk, which is taking their rights",
+      "jailtime": 0,
+      "fine": 250,
+      "bail": 0
+    },
+    {
+      "code": "1A5",
+      "charge": "(1) A. 5. Excessive use of horn, it may disturbing other drivers",
+      "jailtime": 0,
+      "fine": 250,
+      "bail": 0
+    },
+    {
+      "code": "1A6",
+      "charge": "(1) A. 6. Driving through a safety zone (any safety zone secured by traffic devices, and others)",
+      "jailtime": 0,
+      "fine": 250,
+      "bail": 0
+    },
+    {
+      "code": "1A7",
+      "charge": "(1) A. 7. Violating safety requirements (motorcycle: helmet), (car: belt), and lights",
+      "jailtime": 0,
+      "fine": 250,
+      "bail": 0
+    },
+    {
+      "code": "1A8",
+      "charge": "(1) A. 8. Violating safety requirements on heavy vehicles/big trucks",
+      "jailtime": 0,
+      "fine": 250,
+      "bail": 0
+    },
+    {
+      "code": "1A9",
+      "charge": "(1) A. 9. Failure to Obey a Traffic Control Device (signs, roadblocks, hand signals, or other equipment used by law enforcement)",
+      "jailtime": 0,
+      "fine": 250,
+      "bail": 0
+    },
+    {
+      "code": "1B",
+      "charge": "(1) B. Failure to pay any issued ticket",
+      "jailtime": 15,
+      "fine": 65,
+      "bail": 195
+    },
+    {
+      "code": "1C",
+      "charge": "(1) C. Driving any motorized vehicle without an official driving license",
+      "jailtime": 15,
+      "fine": 100,
+      "bail": 300
+    },
+    {
+      "code": "1D",
+      "charge": "(1) D. Maneuver any sea vehicles without official sailing licenses",
+      "jailtime": 20,
+      "fine": 150,
+      "bail": 600
+    },
+    {
+      "code": "1E1",
+      "charge": "(1) E. 1. Driving any truck without official trucking licenses",
+      "jailtime": 30,
+      "fine": 1500,
+      "bail": 9000
+    },
+    {
+      "code": "1E2",
+      "charge": "(1) E. 2. Driving any lorry without official trucking licenses",
+      "jailtime": 30,
+      "fine": 500,
+      "bail": 3000
+    },
+    {
+      "code": "1F1",
+      "charge": "(1) F. 1. Truck driving in any inappropriate path, without any permission from officers before",
+      "jailtime": 30,
+      "fine": 2000,
+      "bail": 10000
+    },
+    {
+      "code": "1F2",
+      "charge": "(1) F. 2. Lorry driving in any inappropriate path, without any permission from officers before",
+      "jailtime": 30,
+      "fine": 200,
+      "bail": 1200
+    },
+    {
+      "code": "1G",
+      "charge": "(1) G. Flying any air vehicles without official flying licenses as a pilot",
+      "jailtime": 35,
+      "fine": 2250,
+      "bail": 10000
+    },
+    {
+      "code": "1H",
+      "charge": "(1) H. Speeding",
+      "jailtime": 0,
+      "fine": 1000,
+      "bail": 0
+    },
+    {
+      "code": "1I",
+      "charge": "(1) I. Vehicle Parking Violation",
+      "jailtime": 0,
+      "fine": 150,
+      "bail": 0
+    },
+    {
+      "code": "1J",
+      "charge": "(1) J. Illegal Modifications On Vehicles",
+      "jailtime": 0,
+      "fine": 200,
+      "bail": 0
+    },
+    {
+      "code": "1K",
+      "charge": "(1) K. Unregistered Vehicles",
+      "jailtime": 0,
+      "fine": 150,
+      "bail": 0
+    },
+    {
+      "code": "1L",
+      "charge": "(1) L. Vehicular Endangerment",
+      "jailtime": 30,
+      "fine": 2500,
+      "bail": 8000
+    },
+    {
+      "code": "1M",
+      "charge": "(1) M. Vehicular Manslaughter",
+      "jailtime": 40,
+      "fine": 250,
+      "bail": 2000
+    },
+    {
+      "code": "1N",
+      "charge": "(1) N. DWI or DUI",
+      "jailtime": 15,
+      "fine": 100,
+      "bail": 300
+    },
+    {
+      "code": "1O",
+      "charge": "(1) O. Illegal Street Racing",
+      "jailtime": 25,
+      "fine": 150,
+      "bail": 750
+    },
+    {
+      "code": "1P",
+      "charge": "(1) P. Evading From Police",
+      "jailtime": 20,
+      "fine": 150,
+      "bail": 600
+    },
+    {
+      "code": "1Q",
+      "charge": "(1) Q. Flight Regulations",
+      "jailtime": 0,
+      "fine": 250,
+      "bail": 0
+    },
+    {
+      "code": "1R",
+      "charge": "(1) R. Misbehavely Maneuvering / Operating an Aircraft / Aircraft Endangerment",
+      "jailtime": 30,
+      "fine": 450,
+      "bail": 2700
+    },
+    {
+      "code": "1S",
+      "charge": "(1) S. Emergency Landing",
+      "jailtime": 0,
+      "fine": 400,
+      "bail": 0
+    },
+    {
+      "code": "1T",
+      "charge": "(1) T. Failure to Yield to Emergency Vehicles",
+      "jailtime": 0,
+      "fine": 250,
+      "bail": 0
+    },
+    {
+      "code": "1U",
+      "charge": "(1) U. Failure to Yield to A Roadblock",
+      "jailtime": 0,
+      "fine": 200,
+      "bail": 0
+    },
+    {
+      "code": "1V",
+      "charge": "(1) V. Following An Emergency Vehicle",
+      "jailtime": 0,
+      "fine": 300,
+      "bail": 0
+    },
+    {
+      "code": "1W",
+      "charge": "(1) W. Altering or Changing a Vehicle Identification Number",
+      "jailtime": 20,
+      "fine": 100,
+      "bail": 400
+    },
+    {
+      "code": "2A",
+      "charge": "(2) A. Firearms License",
+      "jailtime": 0,
+      "fine": 0,
+      "bail": 0
+    },
+    {
+      "code": "2B",
+      "charge": "(2) B. Flying License",
+      "jailtime": 0,
+      "fine": 0,
+      "bail": 0
+    },
+    {
+      "code": "2C",
+      "charge": "(2) C. Trucking License",
+      "jailtime": 0,
+      "fine": 0,
+      "bail": 0
+    },
+    {
+      "code": "2D",
+      "charge": "(2) D. Lumberjack License",
+      "jailtime": 25,
+      "fine": 2000,
+      "bail": 10000
+    },
+    {
+      "code": "2E",
+      "charge": "(2) E. Event Permit",
+      "jailtime": 0,
+      "fine": 0,
+      "bail": 0
+    },
+    {
+      "code": "2F",
+      "charge": "(2) F. Organizing a Small Illegal Event",
+      "jailtime": 25,
+      "fine": 5000,
+      "bail": 10000
+    },
+    {
+      "code": "2G",
+      "charge": "(2) G. Organizing a Big Illegal Event",
+      "jailtime": 35,
+      "fine": 7500,
+      "bail": 10000
+    },
+    {
+      "code": "2H",
+      "charge": "(2) H. Hunting Permit",
+      "jailtime": 30,
+      "fine": 2000,
+      "bail": 6000
+    },
+
+    {
+      "code": "3A",
+      "charge": "(3) A. Possessing of Marijuana / Pots (Small Amount)",
+      "jailtime": 10,
+      "fine": 200,
+      "bail": 400
+    },
+    {
+      "code": "3B",
+      "charge": "(3) B. Possessing of Marijuana / Pots (Large Amount)",
+      "jailtime": 15,
+      "fine": 400,
+      "bail": 1200
+    },
+    {
+      "code": "3C",
+      "charge": "(3) C. Possessing of Cocaine / Crack (Small Amount)",
+      "jailtime": 20,
+      "fine": 375,
+      "bail": 1500
+    },
+    {
+      "code": "3D",
+      "charge": "(3) D. Possessing of Cocaine / Crack (Large Amount)",
+      "jailtime": 25,
+      "fine": 750,
+      "bail": 3750
+    },
+    {
+      "code": "3E",
+      "charge": "(3) E. IUI or IWI",
+      "jailtime": 15,
+      "fine": 150,
+      "bail": 450
+    },
+    {
+      "code": "3F",
+      "charge": "(3) F. Selling or distributing of illegal drugs",
+      "jailtime": 25,
+      "fine": 500,
+      "bail": 2500
+    },
+    {
+      "code": "3G",
+      "charge": "(3) G. Drug Manufacturing",
+      "jailtime": 35,
+      "fine": 500,
+      "bail": 3500
+    },
+    {
+      "code": "3H",
+      "charge": "(3) H. Being Present for Illegal Drug Use",
+      "jailtime": 10,
+      "fine": 100,
+      "bail": 200
+    },
+    {
+      "code": "4A",
+      "charge": "(4) A. Possessing, Showing, And Display Any Usages of Sharp / Blunt Weapons",
+      "jailtime": 15,
+      "fine": 150,
+      "bail": 450
+    },
+    {
+      "code": "4B",
+      "charge": "(4) B. Possessing of Illegal Firearms",
+      "jailtime": 40,
+      "fine": 500,
+      "bail": 4000
+    },
+    {
+      "code": "4C",
+      "charge": "(4) C. Possessing of Legal Firearms Without Official Firearms License",
+      "jailtime": 20,
+      "fine": 50,
+      "bail": 200
+    },
+    {
+      "code": "4D",
+      "charge": "(4) D. Possessing Any Kind of Weapon Materials or Schematics",
+      "jailtime": 25,
+      "fine": 500,
+      "bail": 2500
+    },
+    {
+      "code": "4E",
+      "charge": "(4) E. Firearms License Violation",
+      "jailtime": 0,
+      "fine": 0,
+      "bail": 0
+    },
+    {
+      "code": "4E2",
+      "charge": "(4) E. 2. GCU (Gun Control Unit) Weapon Target",
+      "jailtime": 0,
+      "fine": 0,
+      "bail": 0
+    },
+    {
+      "code": "4F",
+      "charge": "(4) F. Brandishing a Firearm or Weapon",
+      "jailtime": 20,
+      "fine": 200,
+      "bail": 800
+    },
+    {
+      "code": "4G",
+      "charge": "(4) G. Unlawful Discharge of a Firearm or Weapon",
+      "jailtime": 25,
+      "fine": 200,
+      "bail": 1000
+    },
+    {
+      "code": "4H",
+      "charge": "(4) H. Possession of a Body Armor",
+      "jailtime": 10,
+      "fine": 400,
+      "bail": 800
+    },
+    {
+      "code": "4I",
+      "charge": "(4) I. Weapon Trafficking",
+      "jailtime": 30,
+      "fine": 400,
+      "bail": 2400
+    },
+    {
+      "code": "4J",
+      "charge": "(4) J. Possessing Destructive Devices or Explosives",
+      "jailtime": 35,
+      "fine": 350,
+      "bail": 2450
+    },
+    {
+      "code": "5A",
+      "charge": "(5) A. Intimidation",
+      "jailtime": 10,
+      "fine": 50,
+      "bail": 100
+    },
+    {
+      "code": "5B",
+      "charge": "(5) B. Assault",
+      "jailtime": 15,
+      "fine": 100,
+      "bail": 300
+    },
+    {
+      "code": "5C",
+      "charge": "(5) C. Assault with Deadly Weapons",
+      "jailtime": 20,
+      "fine": 150,
+      "bail": 600
+    },
+    {
+      "code": "5D",
+      "charge": "(5) D. Battery",
+      "jailtime": 25,
+      "fine": 200,
+      "bail": 1000
+    },
+    {
+      "code": "5E",
+      "charge": "(5) E. Aggravated Battery",
+      "jailtime": 30,
+      "fine": 250,
+      "bail": 1500
+    },
+    {
+      "code": "5F",
+      "charge": "(5) F. Attempted Murdering",
+      "jailtime": 30,
+      "fine": 200,
+      "bail": 1200
+    },
+    {
+      "code": "5G",
+      "charge": "(5) G. Murdering",
+      "jailtime": 50,
+      "fine": 400,
+      "bail": 4000
+    },
+    {
+      "code": "5H",
+      "charge": "(5) H. Committed a group criminal assault with or without weapons",
+      "jailtime": 30,
+      "fine": 250,
+      "bail": 1500
+    },
+    {
+      "code": "5I",
+      "charge": "(5) I. Performing A Drive-By Using Light or Heavy Fire Arms",
+      "jailtime": 35,
+      "fine": 300,
+      "bail": 2100
+    },
+    {
+      "code": "5J",
+      "charge": "(5) J. Melee Robbery",
+      "jailtime": 15,
+      "fine": 100,
+      "bail": 300
+    },
+    {
+      "code": "5K",
+      "charge": "(5) K. Armed Robbery",
+      "jailtime": 30,
+      "fine": 150,
+      "bail": 900
+    },
+    {
+      "code": "5L",
+      "charge": "(5) L. Piracy",
+      "jailtime": 20,
+      "fine": 150,
+      "bail": 600
+    },
+    {
+      "code": "5M",
+      "charge": "(5) M. Grand Theft",
+      "jailtime": 25,
+      "fine": 250,
+      "bail": 1250
+    },
+    {
+      "code": "5N",
+      "charge": "(5) N. Grand Theft Auto",
+      "jailtime": 15,
+      "fine": 250,
+      "bail": 750
+    },
+    {
+      "code": "5O",
+      "charge": "(5) O. Grand Theft of Firearms",
+      "jailtime": 15,
+      "fine": 100,
+      "bail": 300
+    },
+    {
+      "code": "5P",
+      "charge": "(5) P. Abuse or Desecration of Dead Human Body",
+      "jailtime": 15,
+      "fine": 200,
+      "bail": 600
+    },
+    {
+      "code": "5Q",
+      "charge": "(5) Q. Kidnapping",
+      "jailtime": 30,
+      "fine": 350,
+      "bail": 2100
+    },
+    {
+      "code": "5R",
+      "charge": "(5) R. Hostage Taking",
+      "jailtime": 60,
+      "fine": 250,
+      "bail": 3000
+    },
+    {
+      "code": "5S",
+      "charge": "(5) S. Torture",
+      "jailtime": 20,
+      "fine": 150,
+      "bail": 600
+    },
+    {
+      "code": "5T",
+      "charge": "(5) T. Blackmail",
+      "jailtime": 10,
+      "fine": 100,
+      "bail": 200
+    },
+    {
+      "code": "5U",
+      "charge": "(5) U. Human Trafficking",
+      "jailtime": 65,
+      "fine": 550,
+      "bail": 7150
+    },
+    {
+      "code": "6A",
+      "charge": "(6) A. Sexual Harassment",
+      "jailtime": 10,
+      "fine": 500,
+      "bail": 1000
+    },
+    {
+      "code": "6B",
+      "charge": "(6) B. Rape",
+      "jailtime": 60,
+      "fine": 300,
+      "bail": 3600
+    },
+    {
+      "code": "6C",
+      "charge": "(6) C. Statutory Rape",
+      "jailtime": 75,
+      "fine": 500,
+      "bail": 7500
+    },
+    {
+      "code": "6D",
+      "charge": "(6) D. Prostitution",
+      "jailtime": 30,
+      "fine": 250,
+      "bail": 1500
+    },
+    {
+      "code": "6E",
+      "charge": "(6) E. Solicitation of Sexual Engagement",
+      "jailtime": 30,
+      "fine": 250,
+      "bail": 1500
+    },
+    {
+      "code": "6F",
+      "charge": "(6) F. Being Naked In Public",
+      "jailtime": 5,
+      "fine": 50,
+      "bail": 0
+    },
+    {
+      "code": "6G",
+      "charge": "(6) G. Performs Any Sexual Action in Public",
+      "jailtime": 15,
+      "fine": 150,
+      "bail": 450
+    },
+    {
+      "code": "7A",
+      "charge": "(7) A. Initiating A Riot",
+      "jailtime": 15,
+      "fine": 200,
+      "bail": 600
+    },
+    {
+      "code": "7B",
+      "charge": "(7) B. Failing to Disperse After Lawfully Ordered by The Officials",
+      "jailtime": 20,
+      "fine": 250,
+      "bail": 1000
+    },
+    {
+      "code": "7C",
+      "charge": "(7) C. Participating in a Riot",
+      "jailtime": 10,
+      "fine": 75,
+      "bail": 150
+    },
+    {
+      "code": "7D",
+      "charge": "(7) D. Spitting in Public Space",
+      "jailtime": 0,
+      "fine": 150,
+      "bail": 0
+    },
+    {
+      "code": "7E",
+      "charge": "(7) E. Pee in Public",
+      "jailtime": 0,
+      "fine": 150,
+      "bail": 0
+    },
+    {
+      "code": "7F",
+      "charge": "(7) F. Drunk in Public Space",
+      "jailtime": 0,
+      "fine": 200,
+      "bail": 0,
+      "note": "Prisonment might be applied if causes major disturbance."
+    },
+    {
+      "code": "7G",
+      "charge": "(7) G. Vilification",
+      "jailtime": 15,
+      "fine": 100,
+      "bail": 300
+    },
+    {
+      "code": "7H",
+      "charge": "(7) H. Hate Speech",
+      "jailtime": 20,
+      "fine": 150,
+      "bail": 600
+    },
+    {
+      "code": "7I",
+      "charge": "(7) I. Vigilantism",
+      "jailtime": 30,
+      "fine": 300,
+      "bail": 1800
+    },
+    {
+      "code": "7J",
+      "charge": "(7) J. Disturbing Public Peace",
+      "jailtime": 15,
+      "fine": 100,
+      "bail": 300
+    },
+    {
+      "code": "7K",
+      "charge": "(7) K. Brawl in Public Space",
+      "jailtime": 20,
+      "fine": 150,
+      "bail": 600
+    },
+    {
+      "code": "7L",
+      "charge": "(7) L. Accessories Disturbance",
+      "jailtime": 0,
+      "fine": 150,
+      "bail": 0,
+      "note": "Wearing a government accessory may result in prisonment."
+    },
+    {
+      "code": "7M",
+      "charge": "(7) M. Jaywalk",
+      "jailtime": 0,
+      "fine": 50,
+      "bail": 0
+    },
+    {
+      "code": "7N",
+      "charge": "(7) N. Littering the Public Facility / Space",
+      "jailtime": 0,
+      "fine": 250,
+      "bail": 0,
+      "note": "Prisonment might be applied sometimes."
+    },
+    {
+      "code": "7O",
+      "charge": "(7) O. Unlawful Assembly",
+      "jailtime": 20,
+      "fine": 100,
+      "bail": 400
+    },
+    {
+      "code": "7P",
+      "charge": "(7) P. Stalking",
+      "jailtime": 20,
+      "fine": 200,
+      "bail": 800
+    },
+    {
+      "code": "7Q",
+      "charge": "(7) Q. Public Intoxication",
+      "jailtime": 10,
+      "fine": 250,
+      "bail": 500
+    },
+    {
+      "code": "7R",
+      "charge": "(7) R. Animal Abuse",
+      "jailtime": 20,
+      "fine": 500,
+      "bail": 2000
+    },
+    {
+      "code": "7S",
+      "charge": "(7) S. Animal Cruelty",
+      "jailtime": 0,
+      "fine": 300,
+      "bail": 0
+    },
+    {
+      "code": "8A",
+      "charge": "(8) A. Obstruction of Justice",
+      "jailtime": 15,
+      "fine": 30,
+      "bail": 90,
+      "note": "If a person violates more than one, then additional fines, jailtimes, and bailouts will be added."
+    },
+    {
+      "code": "8B",
+      "charge": "(8) B. Abusing Government Hotline (Ex : 911, 555, Etc)",
+      "jailtime": 10,
+      "fine": 100,
+      "bail": 200
+    },
+    {
+      "code": "8C",
+      "charge": "(8) C. Governments Attribute",
+      "jailtime": 60,
+      "fine": 100,
+      "bail": 1200,
+      "note": "Verbal warning if found wearing the attributes."
+    },
+    {
+      "code": "8D",
+      "charge": "(8) D. Impersonating Government Staff",
+      "jailtime": 60,
+      "fine": 100,
+      "bail": 1200
+    },
+    {
+      "code": "8E",
+      "charge": "(8) E. Attempting to Bribe or Corrupt Any Public Officials",
+      "jailtime": 15,
+      "fine": 200,
+      "bail": 600
+    },
+    {
+      "code": "8F",
+      "charge": "(8) F. Attempting to Bribe, Corrupt or Prevent Any Crime’s Witnesses to Step Out and Give Out Information to Law Enforcers",
+      "jailtime": 10,
+      "fine": 60,
+      "bail": 120
+    },
+    {
+      "code": "8G",
+      "charge": "(8) G. Making a False Report",
+      "jailtime": 20,
+      "fine": 200,
+      "bail": 800
+    },
+    {
+      "code": "8H",
+      "charge": "(8) H. Giving False Information to the Police Officials",
+      "jailtime": 20,
+      "fine": 125,
+      "bail": 0
+    },
+    {
+      "code": "8I",
+      "charge": "(8) I. Perjury",
+      "jailtime": 20,
+      "fine": 500,
+      "bail": 2000
+    },
+    {
+      "code": "8J",
+      "charge": "(8) J. Assaulting on LEO",
+      "jailtime": 40,
+      "fine": 150,
+      "bail": 1200
+    },
+    {
+      "code": "8K",
+      "charge": "(8) K. Attempted Murdering A Public Officials",
+      "jailtime": 60,
+      "fine": 500,
+      "bail": 6000
+    },
+    {
+      "code": "8L",
+      "charge": "(8) L. Murdering A Public Officials",
+      "jailtime": 70,
+      "fine": 600,
+      "bail": 8400
+    },
+    {
+      "code": "8M",
+      "charge": "(8) M. Harbouring Criminals",
+      "jailtime": 30,
+      "fine": 250,
+      "bail": 1500
+    },
+    {
+      "code": "8N",
+      "charge": "(8) N. Fraud / Scam",
+      "jailtime": 20,
+      "fine": 250,
+      "bail": 1000
+    },
+    {
+      "code": "8O",
+      "charge": "(8) O. Forgery",
+      "jailtime": 30,
+      "fine": 500,
+      "bail": 3000
+    },
+    {
+      "code": "8P",
+      "charge": "(8) P. Corruption",
+      "jailtime": 300,
+      "fine": 5000,
+      "bail": 10000
+    },
+    {
+      "code": "9A",
+      "charge": "(9) A. Trespassing",
+      "jailtime": 5,
+      "fine": 300,
+      "bail": 0,
+      "note": "Refund any damaged properties (if break through the property / entering)."
+    },
+    {
+      "code": "9B",
+      "charge": "(9) B. Trespassing Government Property",
+      "jailtime": 20,
+      "fine": 100,
+      "bail": 400
+    },
+    {
+      "code": "9C",
+      "charge": "(9) C. Vandalism",
+      "jailtime": 15,
+      "fine": 250,
+      "bail": 450,
+      "note": "Refund any damaged properties."
+    },
+    {
+      "code": "9D",
+      "charge": "(9) D. Arson",
+      "jailtime": 30,
+      "fine": 250,
+      "bail": 1500
+    },
+    {
+      "code": "9E",
+      "charge": "(9) E. Extortion",
+      "jailtime": 20,
+      "fine": 150,
+      "bail": 600,
+      "note": "The stolen items / goods must be restored to the rightful owner."
+    },
+    {
+      "code": "9F",
+      "charge": "(9) F. Using Property As Illegal Distribution",
+      "jailtime": 60,
+      "fine": 300,
+      "bail": 3600,
+      "note": "Owners only"
+    },
+    {
+      "code": "TAG",
+      "charge": "STANDART ARREST WARRANT",
+      "jailtime": 0,
+      "fine": 0,
+      "bail": 0
+    },
+    {
+      "code": "TAG",
+      "charge": "SPECIAL ARREST WARRANT",
+      "jailtime": 0,
+      "fine": 0,
+      "bail": 0
+    },
+    {
+      "code": "TAG",
+      "charge": "DB TARGET",
+      "jailtime": 0,
+      "fine": 0,
+      "bail": 0
+    }
+  ]
