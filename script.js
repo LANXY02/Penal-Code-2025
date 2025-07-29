@@ -634,7 +634,7 @@ function initNewTooltips() {
 
 const draftData = [
     {
-        name: 'Robery Charges',
+        name: 'Roberry Charges',
         code: '1P, 4b, 5K, 8J'
     }, 
 ];
