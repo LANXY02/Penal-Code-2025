@@ -633,10 +633,6 @@ function initNewTooltips() {
 }
 
 const draftData = [
-    {
-        name: 'Gang Related',
-        code: '5H'
-    }, 
 ];
 
 // Draft system
